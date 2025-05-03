@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "takeout",
+  "description": "",
+  "appid": "wxbc2972e183ef065e",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
